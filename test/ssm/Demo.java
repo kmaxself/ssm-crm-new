@@ -18,6 +18,7 @@ public class Demo {
  /**
   * 读取一张图片的RGB值
   * @throws Exception
+  * the master branch
   */
  public void getImagePixel(String image) throws Exception {
   int[] rgb = new int[3];
