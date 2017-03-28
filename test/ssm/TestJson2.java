@@ -57,7 +57,7 @@ public static void main(String[] args) {
     	s6.setParentid(2);
     	s6.setName("文本6");
     	
-    	List<SysMenu> menuList = new ArrayList<>();
+    	List<SysMenu> menuList = new ArrayList<SysMenu>();
     	
     	menuList.add(s1);
     	menuList.add(s2);

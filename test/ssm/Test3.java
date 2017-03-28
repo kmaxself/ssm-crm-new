@@ -129,7 +129,7 @@ public class Test3 {
     	s9.setParentid(8);
     	s9.setName("父1-父3-父8-节点9"); 
     	
-    	List<SysMenu> menuList = new ArrayList<>();
+    	List<SysMenu> menuList = new ArrayList<SysMenu>();
     	menuList.add(s1);
     	menuList.add(s2);
     	menuList.add(s3);
